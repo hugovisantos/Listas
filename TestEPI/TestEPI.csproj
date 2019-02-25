@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ListaECO\ListaECOExercicio2.csproj" />
+    <ProjectReference Include="..\ListaEPI\ListaEPIExercicio1.csproj" />
   </ItemGroup>
 
 </Project>

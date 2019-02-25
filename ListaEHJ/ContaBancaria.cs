@@ -10,8 +10,7 @@ namespace ListaEHJ
 
         public string NomeCliente { get; set; }
         public long CPF { get; set; }
-        public int NumeroDaConta { get; set; }
-        public static int QuantidadeDeContas;////////////////////////        
+        public int NumeroDaConta { get; set; }            
         public decimal Saldo { get; protected set; }
         public int QuantidadeDeChequesDisponiveis { get; private set; }
         public DateTime Aniversario { get; set; }

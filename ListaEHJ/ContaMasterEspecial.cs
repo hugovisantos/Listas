@@ -14,7 +14,7 @@ namespace ListaEHJ
         }        
 
 
-        public decimal valorLimiteDeSaldo = 10_000;
+        private decimal valorLimiteDeSaldo = 10_000;
                         
         public override bool Sacar(decimal valorDeSaque)
         {          

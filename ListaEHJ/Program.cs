@@ -255,7 +255,7 @@ namespace ListaEHJ
                                     }
                                 case 5:
                                     {
-                                        Console.WriteLine("Valor de limite {0}\n", contaMasterEspecial.valorLimiteDeSaldo);
+                                        Console.WriteLine("Valor de limite {0}\n", contaMasterEspecial.ExibirLimite());
                                         break;
                                     }
                             }
